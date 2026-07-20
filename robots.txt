@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://centurion98.github.io/snippets-xbz8r5/sitemap.xml
